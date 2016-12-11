@@ -1,0 +1,6 @@
+E:\Programming\HomeTasks\LittleJarvis\LittleJarvis\bin\Debug\LittleJarvis.exe.config
+E:\Programming\HomeTasks\LittleJarvis\LittleJarvis\bin\Debug\LittleJarvis.exe
+E:\Programming\HomeTasks\LittleJarvis\LittleJarvis\bin\Debug\LittleJarvis.pdb
+E:\Programming\HomeTasks\LittleJarvis\LittleJarvis\obj\Debug\LittleJarvis.csprojResolveAssemblyReference.cache
+E:\Programming\HomeTasks\LittleJarvis\LittleJarvis\obj\Debug\LittleJarvis.exe
+E:\Programming\HomeTasks\LittleJarvis\LittleJarvis\obj\Debug\LittleJarvis.pdb
